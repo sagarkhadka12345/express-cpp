@@ -1,0 +1,17 @@
+X64/
+X64/*
+build/
+build/*
+.cmake/
+
+# Ignore CMake build artifacts
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeSettings.json
+CTestTestfile.cmake
+Makefile
+Testing/
+
+# Ignore Visual Studio Code specific files
+.vscode/
