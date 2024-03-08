@@ -26,16 +26,8 @@ Welcome to the C++ Express-Like Framework project! This is an educational initia
     https://github.com/sagarkhadka12345/express-cpp.git
     ```
 
-2. Build the project using CMake:
 
-    ```bash
-    mkdir build
-    cd build
-    cmake ..
-    make
-    ```
-
-3. Run the example:
+2. Run the example:
 
     ```bash
     Use Visual Studio and run the project
