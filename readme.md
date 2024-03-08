@@ -2,15 +2,13 @@
 
 ## Project Overview
 
-Welcome to the C++ Express-Like Framework project! This is an educational initiative aimed at exploring the development of a web framework in C++ inspired by Express.js. The project is designed to help learners deepen their understanding of C++, web development concepts, and the design principles behind web frameworks.
+Welcome to the C++ Express-Like Framework project! This is an educational initiative aimed at exploring the development of a web framework in C++ inspired by Express.js. The project is to learn c++
 
 ## Features
 
 - **Routing System:** Create routes for handling HTTP requests and defining their corresponding handlers.
 - **Middleware Support:** Implement middleware functions to perform tasks before or after the main request handler.
 - **Request and Response Objects:** Manipulate HTTP request and response objects to handle incoming requests and send responses.
-- **Template Engine Integration:** Optionally integrate a simple template engine for dynamic content generation.
-- **Error Handling:** Implement mechanisms for handling errors gracefully and providing meaningful responses.
 
 ## Getting Started
 
@@ -25,8 +23,7 @@ Welcome to the C++ Express-Like Framework project! This is an educational initia
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cpp-express-like-framework.git
-    cd cpp-express-like-framework
+    https://github.com/sagarkhadka12345/express-cpp.git
     ```
 
 2. Build the project using CMake:
@@ -41,7 +38,7 @@ Welcome to the C++ Express-Like Framework project! This is an educational initia
 3. Run the example:
 
     ```bash
-    ./express-like-framework-example
+    Use Visual Studio and run the project
     ```
 
 ## Usage
